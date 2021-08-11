@@ -10,8 +10,6 @@ This is the official implementation of [**From Multi-View to Hollow-3D: Hallucin
       year={2021}
     }
 
-The code has been made public, and the README will be completed soon!
-
 ### Installation
 1.  Prepare for the running environment. 
 
